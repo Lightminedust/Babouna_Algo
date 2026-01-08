@@ -1,0 +1,870 @@
+[
+  {
+    "type": "phonétique",
+    "titre": "Voyelles triplées dans les idéophones",
+    "description": "Les idéophones peuvent avoir une voyelle triplée, ce qui est unique à cette catégorie de mots.",
+    "exemple": "Nkuru yi, ipiini, pyɔɔɔ!",
+    "tags": [
+      "idéophones",
+      "phonétique",
+      "voyelles"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Point d'exclamation après les idéophones",
+    "description": "Chaque idéophone doit être suivi d’un point d’exclamation.",
+    "exemple": "Taara atini miu mbyeeli, pfɔ!",
+    "tags": [
+      "idéophones",
+      "orthographe",
+      "ponctuation"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Utilisation des conjonctions",
+    "description": "Les conjonctions relient deux propositions dans une ou deux phrases et peuvent apparaître en début ou au milieu de la phrase.",
+    "exemple": "Kali ndyɛ yi, lyɛɛlɛ ndyɛ, abia mɛ̃!",
+    "tags": [
+      "syntaxe",
+      "conjonctions",
+      "propositions"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Adjectifs et pronoms interrogatifs",
+    "description": "Les pronoms et adjectifs interrogatifs sont utilisés pour former des questions et s'accordent aux classes nominales.",
+    "exemple": "Akwɔrɔ ama? (Quels crapauds?)",
+    "tags": [
+      "morphologie",
+      "interrogatifs",
+      "adjectifs",
+      "pronoms"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Utilisation des prépositions",
+    "description": "Les prépositions peuvent être simples ou composées de deux ou trois mots.",
+    "exemple": "Mɛ̃ ìyɛ kula nkaa. (Je vais partir chez grand-père.)",
+    "tags": [
+      "syntaxe",
+      "prépositions"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Voyelles diphthongisées",
+    "description": "Les voyelles e et o sont diphthongisées en fin de mot.",
+    "exemple": "e se prononce [eɪ] en fin de mot, o se prononce [oʊ] en fin de mot.",
+    "tags": [
+      "phonétique",
+      "voyelles",
+      "diphthongues"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Nasalisation des voyelles",
+    "description": "Toutes les voyelles peuvent être nasalisées et sont marquées par un tilde (~) en haut de la voyelle.",
+    "exemple": "ŋɔ̃ (tam-tam), yʉ̃ (grossesse)",
+    "tags": [
+      "phonétique",
+      "voyelles",
+      "nasalisation"
+    ]
+  },
+  {
+    "type": "grammaire",
+    "titre": "Adverbes interrogatifs",
+    "description": "Les adverbes interrogatifs en téké sont invariables et utilisés pour poser des questions.",
+    "exemple": "buni? (comment?), ima? (quoi?), kuni? (où loin?), ŋani? (où proche?), kywɛ? (combien?), lini? (quand?), na/ana? (qui?)",
+    "tags": [
+      "grammaire",
+      "adverbes",
+      "interrogatifs"
+    ]
+  },
+  {
+    "type": "grammaire",
+    "titre": "Adverbes invariables",
+    "description": "Les adverbes en téké sont invariables et peuvent apparaître avant ou après le verbe qu’ils qualifient.",
+    "exemple": "ibvʉ (ensemble), kala (il y a longtemps), kukwɔ (fortement), kwaa (vite), muba (maintenant), ngaŋwa (véritablement), ngesye (bien), nsɔ̃ (en premier), ŋa (ici, là), ubu (pour toujours)",
+    "tags": [
+      "grammaire",
+      "adverbes"
+    ]
+  },
+  {
+    "type": "grammaire",
+    "titre": "Relatifs",
+    "description": "Les relatifs en téké s’accordent avec les classes nominales et s’écrivent comme un mot à part.",
+    "exemple": "wu (classe 1), ba (classe 2), mi (classe 4), ma (classe 6), yi (classe 9)",
+    "tags": [
+      "grammaire",
+      "relatifs",
+      "classes nominales"
+    ]
+  },
+  {
+    "type": "grammaire",
+    "titre": "Forme longue du relatif",
+    "description": "La forme longue du relatif est utilisée si le mot qui suit directement n’est pas un verbe ou si la proposition relative est au négatif.",
+    "exemple": "wu (wuli), ba (bali), mi (mili), ma (mali), yi (yili)",
+    "tags": [
+      "grammaire",
+      "relatifs",
+      "forme longue"
+    ]
+  },
+  {
+    "type": "grammaire",
+    "titre": "Expression adverbiale 'beaucoup de'",
+    "description": "Le relatif s’emploie pour former l’expression adverbiale 'beaucoup de' avec le verbe ulɔ (être nombreux ou beaucoup).",
+    "exemple": "usali wu alɔ (beaucoup de travail), imangulu m’ilɔ (beaucoup de manguiers), lɔsɔ l’ilɔ (beaucoup de riz)",
+    "tags": [
+      "grammaire",
+      "relatifs",
+      "expression adverbiale"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Voyelles distinctes",
+    "description": "L’alphabet téké des Plateaux contient neuf voyelles distinctes : /i, ɨ, e, ɛ, a, o, ɔ, ʉ, u/.",
+    "exemple": "bi [i] (œuf), bɨ [ɪi] (nous), uke [eɪ] (femme), wɛ [ɛ] (tu, toi), ba [a] (palmier), uko [oʊ] (roi), ndɔ [ɔ] (parole, problème), ibu [u] (écorce, peau), nʉ [ʊu] (abeille)",
+    "tags": [
+      "phonétique",
+      "voyelles"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Voyelles courtes et longues",
+    "description": "Toutes les voyelles sauf /ɨ/ et /ʉ/ peuvent avoir une réalisation courte ou longue. Si la réalisation est longue, on écrit la voyelle deux fois.",
+    "exemple": "i [i] (lina : l’autre), ii [i:] (liina : le même), e [e] (mbyeli : couteau), ee [e:] (ubyeeli : un malade), ɛ [ɛ] (uyɛlɛ : vieillir), ɛɛ [ɛ:] (uyɛɛlɛ : mesurer)",
+    "tags": [
+      "phonétique",
+      "voyelles",
+      "longueur"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Voyelles nasalisées",
+    "description": "Toutes les neuf voyelles peuvent avoir une réalisation nasalisée en fin de mot. La nasalisation est indiquée par un tilde au-dessus de la voyelle finale.",
+    "exemple": "ɔ̃ (usɔ̃ : entrer), ɛ̃ (pɛ̃ : blanc), ũ (kũ : dix), ʉ̃ (ulʉ̃ : mari)",
+    "tags": [
+      "phonétique",
+      "voyelles",
+      "nasalisation"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Séquences de deux voyelles différentes",
+    "description": "Il n’y a jamais deux voyelles différentes au milieu d’un mot entre deux consonnes, mais deux voyelles différentes peuvent se suivre à la fin des mots.",
+    "exemple": "ia (usia : corde), ua (alua : maladie), iɛ (biɛ : calvitie), ue (wue : tout), iu (mpiu : nuit), uɔ (aluɔ : flèches)",
+    "tags": [
+      "phonétique",
+      "voyelles",
+      "séquences"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Sémi-voyelles",
+    "description": "Les sémi-voyelles w et y apparaissent entre une consonne et une voyelle.",
+    "exemple": "bwɔ (eux), ukya (demain), idzwa (forêt), tyɔ̃ (houe), ulwɔɔrɔ (rêver), ifyɛ (jalousie)",
+    "tags": [
+      "phonétique",
+      "sémi-voyelles"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Harmonie vocalique",
+    "description": "Lorsqu’il y a ɛ ou ɔ au milieu d’un mot, ces mêmes voyelles apparaissent en fin de mot, et pas e et o. Lorsqu’un mot finit par i ou u, la voyelle du milieu est toujours e ou o, jamais ɛ ou ɔ.",
+    "exemple": "bɔɔlɔ (homme), mbyeli (couteau), ukwɔlɔ (coeur), kwooli (mais, cependant)",
+    "tags": [
+      "phonétique",
+      "harmonie vocalique"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Négation",
+    "description": "La négation s’exprime en ajoutant ka devant le verbe, ainsi que wɔ (ou parfois wɛ) à la fin de la phrase.",
+    "exemple": "Mɛ̃ ka imuni taara wɔ. (Je n’ai pas vu papa.)",
+    "tags": [
+      "morphologie",
+      "négation"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Impératif négatif",
+    "description": "À l’impératif au singulier, ka est au début de la phrase, en l’absence du sujet, et wɔ est à la fin. À l’impératif au pluriel, ka est également au début de la phrase, et wɔ est à la fin. Le verbe prend maintenant le préfixe pluriel li-.",
+    "exemple": "Ka pala mu mpiu wɔ! (Ne sors pas la nuit !), Ka libɛɛnɛ ŋa mbaa wɔ! (Ne vous approchez pas du feu!)",
+    "tags": [
+      "morphologie",
+      "impératif",
+      "négation"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Auxiliaires",
+    "description": "Il y a plusieurs verbes qui fonctionnent comme auxiliaires, en ajoutant un élément supplémentaire au sens du verbe principal.",
+    "exemple": "ubvula/ubula (faire encore, de nouveau, continuer à), usa (faire bientôt), utswaɔ̃ (faire d’abord), ulura (faire trop)",
+    "tags": [
+      "morphologie",
+      "auxiliaires"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Structure de la négation",
+    "description": "La négation utilise des particules spécifiques en début et en fin de phrase.",
+    "exemple": "Ka lifura wɔ! (Ne payez pas!), Wu abɛɛnɛ ŋa mbaa wɛ! (Que personne ne s’approche du feu !)",
+    "tags": [
+      "syntaxe",
+      "négation"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Utilisation des auxiliaires",
+    "description": "Les auxiliaires accompagnent le verbe principal pour ajouter un élément supplémentaire au sens.",
+    "exemple": "Mɛ̃ nswaɔ̃ ndza. (Je vais manger d’abord.), Bɨ litswaɔ̃ utsʉɔ. (Nous allons d’abord parler.)",
+    "tags": [
+      "syntaxe",
+      "auxiliaires"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Consonnes simples",
+    "description": "Liste des consonnes simples avec leurs prononciations et exemples.",
+    "exemple": "[m] comme dans 'mali' (jus, vin), [n] comme dans 'naana' (grand frère), [ŋ] comme dans 'ŋa' (ici), [p] comme dans 'pabi' (aile), [r] comme dans 'tara' (père), [s] comme dans 'usa' (faire), [t] comme dans 'tubi' (moustique), [w] comme dans 'uwa' (donner), [y] comme dans 'yulu' (ciel)",
+    "tags": [
+      "consonnes",
+      "phonétique",
+      "prononciation"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Position de la lettre r",
+    "description": "La lettre r ne se trouve jamais en position initiale d’un mot.",
+    "exemple": "",
+    "tags": [
+      "consonnes",
+      "phonétique",
+      "règle"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Consonnes composées",
+    "description": "Liste des consonnes composées avec leurs prononciations et exemples.",
+    "exemple": "[bv] comme dans 'bvaari' (pirogue), [dz] comme dans 'dzɨ' (œil), [mb] comme dans 'mbʉɔ' (lit), [mf] comme dans 'mfu' (cheveux), [mp] comme dans 'mpuru' (colère), [mv] comme dans 'mva' (chien), [nd] comme dans 'ndʉ' (ami), [ng] comme dans 'ngara' (singe), [nk] comme dans 'nkʉni' (pierre), [ns] comme dans 'nsala' (plumes), [nt] comme dans 'intu' (ananas), [ny] comme dans 'nyɔ̃' (animal), [nz] comme dans 'nzala' (faim), [pf] comme dans 'lipfu' (mort), [sh] comme dans 'shɛ' (fil de piège), [ts] comme dans 'tsʉ' (jour), [yw] comme dans 'uywiɔ' (envoyer)",
+    "tags": [
+      "consonnes",
+      "phonétique",
+      "prononciation"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Écriture des consonnes composées",
+    "description": "Il n’y a pas de consonnes composées qui consistent en trois consonnes. On écrit mv, nz, mf et ns, au lieu de mbv, ndz, mpf et nts, pour être en harmonie avec le lingala et le kituba.",
+    "exemple": "Nzambi (Dieu en lingala), et non Ndzambi.",
+    "tags": [
+      "orthographe",
+      "consonnes",
+      "règle"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Préfixes secondaires d’aspect",
+    "description": "Liste des préfixes secondaires d’aspect qui indiquent la manière dont l’action du verbe est faite.",
+    "exemple": "-baa- (faire vite l’action), -bu- (habitude au présent), -ka- (habitude ou progression au passé), -kaa- (venir vers l’orateur), -kâ- (faillir faire), -ma- (déjà, venir de/faire d’abord)",
+    "tags": [
+      "morphologie",
+      "verbes",
+      "aspect"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Accent circonflexe",
+    "description": "L’accent circonflexe est utilisé pour distinguer les conjugaisons verbales qui ont le sens de faillir de (-kâ-), de celles qui ont le sens d’une action faite habituellement (-ka-).",
+    "exemple": "Mvula wu ákânɔ, ayiri. (La pluie qui a failli tomber a été chassée.)",
+    "tags": [
+      "orthographe",
+      "verbes",
+      "accent"
+    ]
+  },
+  {
+    "type": "phonétique",
+    "titre": "Tons et diacritiques",
+    "description": "Le téké des Plateaux est une langue à deux tons : un ton haut (marqué par un accent aigu) et un ton bas (non marqué).",
+    "exemple": "buɔ (champignon) vs buɔ́ (peur), ukala (être, rester) vs ukála (protéger, défendre)",
+    "tags": [
+      "phonétique",
+      "tons",
+      "diacritiques"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Accents grammaticaux",
+    "description": "Trois accents grammaticaux sont utilisés pour marquer des temps verbaux spécifiques.",
+    "exemple": "Accent aigu ( ́) pour le passé général, accent grave ( ̀) pour le futur général, accent circonflexe sur le préfixe secondaire -kâ- pour marquer le sens de faillir de.",
+    "tags": [
+      "orthographe",
+      "verbes",
+      "accents"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Formes contractées (élisions)",
+    "description": "Lorsqu’on parle en téké, on a tendance à élider des voyelles en fin de mot. Dans l’orthographe, on écrit les formes complètes, à l’exception d’un cas spécifique où on peut élider.",
+    "exemple": "bu uki → b’uki (depuis le matin), ku ula → k’ula (au village)",
+    "tags": [
+      "morphologie",
+      "élision",
+      "orthographe"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Impératif",
+    "description": "L’impératif au singulier a un préfixe zéro, et au pluriel le préfixe li- (ou i-). La voyelle finale prend la forme de base.",
+    "exemple": "Sala! (Travaille!), Lisala! (Travaillez!), Yɛ nzwɔ̃! (Pars à la maison!), Liyɛ nzwɔ! (Partez à la maison!)",
+    "tags": [
+      "syntaxe",
+      "impératif",
+      "verbes"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Forme ayant... ou après avoir...",
+    "description": "Dans les récits et procédures, on constate souvent des propositions subordonnées introduites par l’équivalent de après avoir fait quelque chose ou ayant fait quelque chose.",
+    "exemple": "Mɛ̃ untyɔɔnɔ, bu nde ikwɔ. (M’étant levé, je me suis habillé.)",
+    "tags": [
+      "syntaxe",
+      "subordonnées",
+      "verbes"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Ponctuation",
+    "description": "Le téké suit en général la ponctuation du français. La majuscule porte sur la lettre initiale de la phrase et des noms propres. Le point (.) marque la fin d’une phrase déclarative. Le point d’interrogation (?) marque la fin d’une phrase interrogative. Le point d’exclamation (!) s’emploie à la fin d’un impératif ou d’une exclamation.",
+    "exemple": "Ngara ya Nsyuulu ási indʉ. (Singe et Hérisson avaient noué une amitié.)",
+    "tags": [
+      "orthographe",
+      "ponctuation",
+      "règles"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Présent progressif",
+    "description": "Le présent progressif en train de se distingue de la conjugaison être sur le point de par la longueur de la voyelle du deuxième préfixe.",
+    "exemple": "Byɛ uyɛ liiyɛ nsyo. (Vous êtes en train de partir au champ.) vs Byɛ uyɛ lìyɛ nsyo. (Vous êtes sur le point de partir au champ.)",
+    "tags": [
+      "morphologie",
+      "verbes",
+      "progressif"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Emploi des deux points pour les citations",
+    "description": "Les deux points s’emploient pour annoncer une citation. Ils ne sont précédés d’aucun espace, mais sont suivis d’un espace.",
+    "exemple": "Ngara afuuli ndyɛ ndirɛ: «Nkũ a wɛ na?»",
+    "tags": [
+      "ponctuation",
+      "citation"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Emploi des guillemets pour les citations",
+    "description": "Les guillemets s’emploient pour encadrer une citation ou un discours direct. Les guillemets ouvrants sont précédés d’un espace mais ne sont suivis d’aucun espace. Les guillemets fermants ne sont précédés d’aucun espace, mais sont suivis d’un espace.",
+    "exemple": "Nsyuulu ndirɛ: «Nkũ a mɛ̃ Nsyuulu.»",
+    "tags": [
+      "ponctuation",
+      "citation"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Emploi des parenthèses",
+    "description": "Les parenthèses servent à indiquer des explications ou des éléments additionnels. La parenthèse ouvrante est précédée d’un espace, mais n’est suivie d’aucun espace. La parenthèse fermante n’est précédée d’aucun espace.",
+    "exemple": "Nkũ a mɛ̃ Marie (Marie áli kɛ nkũ a ngʉ a mɛ̃).",
+    "tags": [
+      "ponctuation",
+      "explication"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Emploi des points de suspension",
+    "description": "Les points de suspension indiquent que la pensée est incomplète. Ils ne sont précédés d’aucun espace, mais sont suivis d’un espace.",
+    "exemple": "Ndyɛ bu ayini, bu ayini, tii...",
+    "tags": [
+      "ponctuation",
+      "incomplet"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Classes nominales",
+    "description": "Les noms en téké sont divisés en onze groupes ou classes nominales, selon leurs préfixes et la forme des démonstratifs qui les accompagnent.",
+    "exemple": "Classe 1 (sg) : uke wu (femme), Classe 2 (pl) : ake ba (femmes)",
+    "tags": [
+      "noms",
+      "classes",
+      "préfixes"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Genres nominaux",
+    "description": "Les noms d’une même classe au singulier trouvent normalement leurs pluriels dans la même classe plurielle, et ces deux classes forment ensemble un genre.",
+    "exemple": "Genre 1/2 : uke wu / ake ba (femme/femmes)",
+    "tags": [
+      "noms",
+      "genres",
+      "singulier",
+      "pluriel"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Noms composés",
+    "description": "Les mots composés en téké doivent être écrits avec un trait d’union, surtout s’ils ont quatre syllabes ou plus, pour faciliter la lecture.",
+    "exemple": "imina-kwɔrɔ (esp. de serpent), imfula-ntaala (esp. d’oiseau)",
+    "tags": [
+      "orthographe",
+      "composition",
+      "trait d'union"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Présent habituel",
+    "description": "Pour exprimer une action que l’on fait habituellement ou régulièrement au présent, on utilise la même voyelle du préfixe qu’au présent simple, mais elle est toujours longue, donc écrite doublée.",
+    "exemple": "mɛ̃ iitsʉɔ k’ulɔ (je parle beaucoup)",
+    "tags": [
+      "présent",
+      "habituel",
+      "conjugaison"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Présent progressif",
+    "description": "Pour exprimer une action en train de se faire, on utilise le préfixe à voyelle longue, avec la voyelle finale de base. L’objet du verbe passe souvent avant le verbe même.",
+    "exemple": "mɛ̃ ya wɛ iitsʉɔ (je suis en train de parler avec toi)",
+    "tags": [
+      "présent",
+      "progressif",
+      "conjugaison"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Subjonctif/souhait",
+    "description": "Le subjonctif ou le souhait se servent des mêmes préfixes que le présent accompli. La voyelle finale peut prendre la forme modifiée ou la forme de base.",
+    "exemple": "mɛ̃ nzii ndyɛ yini Mpuru! (J’aimerais qu’il parte en Europe !)",
+    "tags": [
+      "subjonctif",
+      "souhait",
+      "conjugaison"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Présent accompli",
+    "description": "Le présent accompli s’emploie lorsqu’on raconte une histoire ou décrit une procédure, et pour les verbes d’état au présent. Les préfixes changent pour les personnes du singulier, avec une consonne nasale n-/ m- à la première personne, et un zéro préfixe aux deuxième et troisième personnes.",
+    "exemple": "mɛ̃ ndyeeli (j’ai dit)",
+    "tags": [
+      "présent",
+      "accompli",
+      "conjugaison"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Présent de la narration",
+    "description": "Le présent de la narration est utilisé pour rendre plus dynamique l’action dans les histoires.",
+    "exemple": "Utwɔ nzwɔ, mɛ̃ mbvʉ mbaa, kɛ swao nzuu, bu neo abuɔ ku mbaa.",
+    "tags": [
+      "présent",
+      "narration",
+      "conjugaison"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Subjonctif immédiat",
+    "description": "La voyelle finale de base est utilisée lorsque l’action souhaitée doit se faire tout de suite. Dans ce cas, la 3ème personne du singulier et les classes 1 et 3 prennent le préfixe a-.",
+    "exemple": "Ubvyɛ kuli ndyɛ ayɛ Mpuru! (C’est bien qu’il parte en Europe! tout de suite)",
+    "tags": [
+      "subjonctif",
+      "immédiat",
+      "conjugaison"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Noms composés avec nga-",
+    "description": "Les mots composés avec nga- qui ont le sens de propriétaire de, possesseur de quelque chose, sont écrits avec un trait d’union.",
+    "exemple": "nga-nzwɔ (propriétaire de la maison)",
+    "tags": [
+      "composition",
+      "trait d'union",
+      "nga-"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Noms composés en téké",
+    "description": "Les noms composés en téké où les deux parties sont identiques sont écrits avec un trait d’union.",
+    "exemple": "adzʉɔ̃-adzʉɔ̃ (plante médicinale), dɔngɔ-dɔngɔ (gombo, okra)",
+    "tags": [
+      "noms composés",
+      "trait d'union",
+      "morphologie"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Répétition de noms pour le sens de la vraie chose",
+    "description": "Les noms peuvent être prononcés deux fois pour donner le sens de la vraie chose. Les deux parties du mot sont reliées par un trait d’union. Si le mot commence par une consonne, la particule -a- est ajoutée entre les deux réalisations.",
+    "exemple": "akali-akali (vraies femmes), bɔɔlɔ-a-bɔɔlɔ (vrai homme)",
+    "tags": [
+      "noms",
+      "répétition",
+      "morphologie"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Futur immédiat",
+    "description": "Le futur immédiat se forme en doublant le verbe, prenant d’abord la forme de l’infinitif, et ensuite le verbe est répété, conjugué au futur. Le préfixe du deuxième verbe porte l’accent grave du futur.",
+    "exemple": "Byɛ usala lìsala nsyo. (Vous êtes sur le point de travailler le champ.)",
+    "tags": [
+      "futur",
+      "syntaxe",
+      "verbe"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Futur général",
+    "description": "Le futur général se réfère à un temps non déterminé dans l’avenir. On utilise le préfixe à voyelle courte avec l’accent grave sur la voyelle, et la voyelle finale prend la forme de base.",
+    "exemple": "Uti àbuɔ. (L’arbre se cassera.)",
+    "tags": [
+      "futur",
+      "syntaxe",
+      "verbe"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Auxiliaires du futur général",
+    "description": "Les auxiliaires du futur général sont ufa, li et usa. Li et ufa sont invariables, tandis que usa se conjugue de la même manière que le verbe principal. S’il y a un auxiliaire du futur, on n’a plus besoin de marquer l’accent grave du futur sur le verbe.",
+    "exemple": "Akwɔ li abwɔlɔ. (Les bananes vont pourrir.)",
+    "tags": [
+      "futur",
+      "auxiliaires",
+      "syntaxe"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Diminutifs en téké",
+    "description": "Les noms composés peuvent exprimer un diminutif, ou quelque chose d’insignifiant avec peu de valeur. Dans ce cas, la première syllabe du mot est répétée au début du mot, avec l’ajout du préfixe i-. Si la première voyelle du radical est a ou e, cette voyelle devient ɨ dans la partie répétée en début du mot.",
+    "exemple": "ingʉ-ngʉ (petite mère), ibɨ-baana (petits enfants)",
+    "tags": [
+      "diminutif",
+      "morphologie",
+      "noms"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Pronoms personnels en téké",
+    "description": "Les pronoms personnels prennent les mêmes formes en tant que sujet, objet direct ou objet indirect. Il y a aussi une forme d’emphase (moi-même, toi-même, etc.).",
+    "exemple": "mɛ̃ (je, me, moi), wɛ (tu, te, toi)",
+    "tags": [
+      "pronoms",
+      "morphologie",
+      "emphase"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Passé général",
+    "description": "Le passé général se distingue par un accent aigu sur la première voyelle du préfixe du verbe. L’accent n’est pas tonique, mais il marque le passé général.",
+    "exemple": "mɛ̃ ílyeeli (j’avais dit), wɛ ábvi nsina (tu t’étais assis)",
+    "tags": [
+      "passé",
+      "morphologie",
+      "verbe"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Passé récent",
+    "description": "Le passé récent utilise les mêmes préfixes courts qu’au présent simple, mais la voyelle finale prend la forme modifiée.",
+    "exemple": "mɛ̃ ilyeeli (j’ai dit), wɛ abvi nsina (tu t’es assis)",
+    "tags": [
+      "passé",
+      "morphologie",
+      "verbe"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Démonstratifs en téké",
+    "description": "Les démonstratifs varient selon les classes nominales et selon le rapprochement ou l’éloignement. Ils s’écrivent directement après le nom.",
+    "exemple": "uke wu (cette femme), ake ba (ces femmes)",
+    "tags": [
+      "démonstratifs",
+      "morphologie",
+      "classes nominales"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Préfixes des classes nominales",
+    "description": "Les préfixes des classes nominales varient selon la classe. Les préfixes à voyelle longue sont entendus pour les pronoms personnels au pluriel et pour certaines classes nominales (2, 4, 5, 6, 7, 8 et 14), mais sont écrits avec une voyelle courte.",
+    "exemple": "Classe 1: a- (ex: uke ayɛ muba), Classe 2: a- (ex: ake abva nsina)",
+    "tags": [
+      "classe nominale",
+      "préfixe",
+      "voyelle"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Convention d'écriture des voyelles",
+    "description": "La convention est d’écrire toujours une voyelle courte pour les préfixes des classes nominales, sauf pour l’habituel et le progressif où la voyelle du préfixe est longue et sera écrite doublée.",
+    "exemple": "Présent simple: a- (ex: ake abva nsina), Habituel/Progressif: aa- (ex: aalyɛɛlɛ muba)",
+    "tags": [
+      "orthographe",
+      "voyelle",
+      "préfixe"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Adverbes de lieu avec démonstratifs",
+    "description": "On peut ajouter un adverbe de lieu (bu, ŋa, ku) au démonstratif de proximité pour différencier entre une chose ou personne qui est plus proche qu’une autre.",
+    "exemple": "Tala amangulu baɔ̃! Wu bu kini k’abiɛ wɔ. Wu ku amabiɛ.",
+    "tags": [
+      "adverbe",
+      "démonstratif",
+      "lieu"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Démonstratifs d'éloignement",
+    "description": "Pour différencier entre des personnes ou choses loin ou très loin, on prend le démonstratif d’éloignement (waɔ̃, baɔ̃, etc.) et ajoute soit bwaɔ̃ pour ce qui est loin, soit kwaɔ̃ pour ce qui est plus loin encore.",
+    "exemple": "Tala baari baɔ̃! Waɔ̃ bwaɔ̃ ula-ula, waɔ̃ kwaɔ̃ upfi-upfi.",
+    "tags": [
+      "démonstratif",
+      "éloignement",
+      "lieu"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Marqueur de possession",
+    "description": "Le marqueur de possession nga-, relié à un des démonstratifs par un trait d’union, donne le sens de voici et voilà en français.",
+    "exemple": "Asaa nga-ma. Intu nga-bvyaɔ̃.",
+    "tags": [
+      "possession",
+      "démonstratif",
+      "marqueur"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Possessifs et associatifs",
+    "description": "Les possessifs et associatifs sont des petits mots qui apparaissent entre le nom et le possesseur ou le mot associé. Ils changent selon les classes nominales.",
+    "exemple": "Classe 1: wa (ex: ukali a mɛ̃), Classe 2: ba (ex: atara a byɛ)",
+    "tags": [
+      "possessif",
+      "associatif",
+      "classe nominale"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Adjectifs variables",
+    "description": "Les adjectifs se placent après le nom qu’ils qualifient. Certains ont un préfixe variable selon la classe du nom qu’ils qualifient.",
+    "exemple": "Classe 1: u- (ex: ubvyɛ, ubi), Classe 2: a- (ex: abvyɛ, abi)",
+    "tags": [
+      "adjectif",
+      "préfixe",
+      "classe nominale"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Formes modifiées des verbes",
+    "description": "La voyelle finale du verbe devient généralement -i dans la forme modifiée, mais les verbes qui ont la voyelle finale -ɔ peuvent également prendre –u. Lorsque la voyelle du milieu est ɛ ou ɔ, elle devient -e- et –o- dans la forme modifiée.",
+    "exemple": "Forme de base: -ia, Forme modifiée: -ii (ex: ubia, -bii)",
+    "tags": [
+      "verbe",
+      "forme modifiée",
+      "voyelle"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Verbes irréguliers",
+    "description": "Certains verbes ont des formes modifiées irrégulières.",
+    "exemple": "ubuɔ (façonner): forme modifiée -bue, uluɔ (enseigner): forme modifiée -lue",
+    "tags": [
+      "verbe",
+      "irrégulier",
+      "forme modifiée"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Adjectifs numériques",
+    "description": "Les numéros un à six opèrent comme des adjectifs qui s’accordent avec la classe du nom qu’ils quantifient.",
+    "exemple": "kiri imwɔ̃ (une chaise), anzwɔ mwɔɔlɛ (deux maisons)",
+    "tags": [
+      "adjectif",
+      "numérique",
+      "classe nominale"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Adjectifs invariables",
+    "description": "Il existe des mots qui fonctionnent comme adjectifs mais qui sont invariables.",
+    "exemple": "bve (ouvert), byɛ (rouge), mpyɔ̃ (serré)",
+    "tags": [
+      "adjectif",
+      "invariable"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Classes nominales et chiffres",
+    "description": "Les chiffres en téké varient selon les classes nominales. Les classes 1 à 6 ont des formes spécifiques pour les chiffres.",
+    "exemple": "Classe 1 (sg) : umwɔ̃, Classe 2 (pl) : bwɔɔlɛ",
+    "tags": [
+      "classes nominales",
+      "chiffres",
+      "morphologie"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Invariabilité des chiffres à partir de sept",
+    "description": "À partir du chiffre sept, les numéros sont invariables en téké.",
+    "exemple": "7 : nsaɔ̃",
+    "tags": [
+      "chiffres",
+      "invariabilité",
+      "morphologie"
+    ]
+  },
+  {
+    "type": "orthographe",
+    "titre": "Trait d'union dans les chiffres composés",
+    "description": "Les différentes parties des chiffres composés sont reliées par un trait d’union, sauf si elles sont reliées par 'ya'.",
+    "exemple": "64 : akũ-ashɔɔnɔ ya ina",
+    "tags": [
+      "orthographe",
+      "chiffres",
+      "trait d'union"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Forme modifiée des verbes irréguliers",
+    "description": "Certains verbes en téké ont des formes modifiées irrégulières.",
+    "exemple": "udza (manger) : forme modifiée -li",
+    "tags": [
+      "verbes",
+      "irréguliers",
+      "morphologie"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Verbes en -CVV",
+    "description": "Les verbes en -CVV en téké suivent des règles spécifiques pour la forme modifiée selon la voyelle finale.",
+    "exemple": "uluɔ (crier) : forme modifiée -uo",
+    "tags": [
+      "verbes",
+      "morphologie",
+      "CVV"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Verbes en -CV",
+    "description": "Les verbes en -CV en téké suivent des règles spécifiques pour la forme modifiée selon la voyelle finale.",
+    "exemple": "ubva (tomber) : forme modifiée -bi",
+    "tags": [
+      "verbes",
+      "morphologie",
+      "CV"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Forme de base et forme modifiée des verbes",
+    "description": "Les verbes en téké ont une forme de base (infinitif) et une forme modifiée utilisée pour le passé.",
+    "exemple": "unɔ (pleuvoir) : forme modifiée -no",
+    "tags": [
+      "verbes",
+      "morphologie",
+      "forme modifiée"
+    ]
+  },
+  {
+    "type": "morphologie",
+    "titre": "Adjectifs numéraux",
+    "description": "Les adjectifs numéraux en téké s'accordent avec les classes nominales.",
+    "exemple": "Classe 1 (sg) : ngoomwɔ̃ (un certain)",
+    "tags": [
+      "adjectifs",
+      "numéraux",
+      "morphologie"
+    ]
+  },
+  {
+    "type": "syntaxe",
+    "titre": "Formation des ordinaux",
+    "description": "Pour obtenir les numéros ordinaux en téké, on ajoute le possessif avant le numéro cardinal.",
+    "exemple": "mbuuru wa nsɔ̃ (la première personne)",
+    "tags": [
+      "ordinaux",
+      "syntaxe",
+      "numéros"
+    ]
+  }
+]
